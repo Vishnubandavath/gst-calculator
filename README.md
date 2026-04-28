@@ -184,7 +184,7 @@ MIT License - feel free to use this project for personal or commercial purposes.
 **Developed by VSNEXOS**
 
 - Website: https://vsnexos.com
-- Email: contact@vsnexos.com
+- Email: business@vsnexos.com
 
 ## Support
 
